@@ -106,4 +106,10 @@ button.botao:hover{
     height: 100%;
     width: 100%;
     display: block;
+
+}
+
+
+.carrosel-filmes{
+    margin-top: 5px;
 }
